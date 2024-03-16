@@ -5,4 +5,4 @@
 * [Who is this book for](who-is-this-book-for.md)
 * [Re-Introduction to Data Engineering](re-introduction-to-data-engineering.md)
 * [Understanding Data Infrastructure](understanding-data-infrastructure.md)
-* [Data Collection and Extraction Techniques](data-collection-and-extraction-techniques.md)
+* [Data Modeling](data-modeling.md)

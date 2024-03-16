@@ -12,4 +12,6 @@ Data Engineering is a critical field in today's data-driven world. It involves t
 
 [Understanding Data Infrastructure](understanding-data-infrastructure.md)
 
+[Data Modeling](data-modeling.md)
+
 _Disclaimer : Some content was AI generated._&#x20;
